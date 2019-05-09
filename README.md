@@ -1,5 +1,5 @@
 # isDomainUp
-This script checks if a given domain is up. It runs continously until domain is up.
+Simple and short script to check if a given domain is up. It runs continously until domain is up.
 
 
 **Python version:**
